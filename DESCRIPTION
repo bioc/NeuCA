@@ -1,7 +1,7 @@
 Package: NeuCA
 Type: Package
 Title: NEUral network-based single-Cell Annotation tool
-Version: 1.9.0
+Version: 1.9.1
 Date: 2021-04-15
 Authors@R: c(person("Ziyi", "Li", role = "aut",
                      email = "ZLi16@mdanderson.org"),
@@ -16,3 +16,4 @@ biocViews: SingleCell, Software, Classification, NeuralNetwork, RNASeq, Transcri
 Encoding: UTF-8
 LazyData: false
 VignetteBuilder: knitr
+PackageStatus: Deprecated

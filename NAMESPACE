@@ -2,4 +2,5 @@ export('NeuCA')
 import('keras')
 import('limma')
 import('SingleCellExperiment')
-
+import('e1071')
+import('kableExtra')
